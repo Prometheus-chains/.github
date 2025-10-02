@@ -18,7 +18,7 @@ We’re building an **open protocol for healthcare**:
 ---
 
 ## 📬 Contact
-- Security issues → **security@yourdomain.com**  
+- Security issues → **info@prometheuschains.org**  
 - General discussions → open a [Discussion](https://github.com/orgs/Prometheus-chains/discussions)  
 - Contributions → check our repos for `good first issue` labels  
 
