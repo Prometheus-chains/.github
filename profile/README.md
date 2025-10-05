@@ -12,7 +12,7 @@ We’re building an **open protocol for healthcare**:
 - [**protocol-medrec**](https://github.com/Prometheus-chains/protocol-medrec) – Solidity contracts for patient-owned records (PatientRecord + Vault).  
 - [**protocol-claims**](https://github.com/Prometheus-chains/protocol-claims) – Solidity contracts for claims adjudication and instant settlement.  
 - [**patient-web**](https://github.com/Prometheus-chains/patient-web) – MetaMask MVP for anchoring & restoring records. [Demo link in repo].  
-- [**claims-web**](https://github.com/Prometheus-chains/claims-web) – Admin + Provider console for claim submission and payouts.  
+- [**claims-web**](https://github.com/Prometheus-chains/claims-web/claims-web) – Admin + Provider console for claim submission and payouts.  
 - [**standards**](https://github.com/Prometheus-chains/standards) – Specs for canonicalization, hashing, vault tags, and claims formats.
 
 ---
