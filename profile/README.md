@@ -36,7 +36,7 @@ Prometheus Chains is an open protocol for healthcare that brings **patient-owned
 | **ClaimEngine** | [`0xadda43C437Bb9A740a4D5972e0432e529a08DA7F`](https://sepolia.basescan.org/address/0xadda43C437Bb9A740a4D5972e0432e529a08DA7F) | Validates provider claims and pays via Bank |
 | **ProviderRegistry** | [`0xa6B53A9A35c70a097666f5C9A31B1f9E9b66A728`](https://sepolia.basescan.org/address/0xa6B53A9A35c70a097666f5C9A31B1f9E9b66A728) | Whitelist of providers and active-year windows |
 | **Enrollment** | [`0xf867c7bC6F1D21700Ac4aEEa47F2AD0d6d86e3DC`](https://sepolia.basescan.org/address/0xf867c7bC6F1D21700Ac4aEEa47F2AD0d6d86e3DC) | Patient coverage registry |
-| **Rules** | [`0xBd46cE7E5f75Ea679cA5E9266d9121b2E6dC67C2`](https://sepolia.basescan.org/address/0xBd46cE7E5f75Ea679cA5E9266d9121b2E6dC67C2) | Price & per-year rules for codes (telehealth, annual) |
+| **Rules** | [`0xDfB1093B0b4a7B518ecf6904fA9388D55f6a0503`](https://sepolia.basescan.org/address/0xDfB1093B0b4a7B518ecf6904fA9388D55f6a0503) | Price & per-year rules for codes (telehealth, annual) |
 | **Bank (USDC Vault)** | [`0x313AB0d2Bc8e03a7011a34CeBfe3eE26EF518e0b`](https://sepolia.basescan.org/address/0x313AB0d2Bc8e03a7011a34CeBfe3eE26EF518e0b) | Holds USDC and executes instant claim payouts |
 
 ---
