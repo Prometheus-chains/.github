@@ -53,9 +53,19 @@ Prometheus Chains is an open protocol for healthcare that brings **patient-owned
 
 ## 💡 Impact
 
-**Bringing healthcare data and payments onchain — the first patient-owned record & claims systembuilt on Base.**
+Modern healthcare is built on **two broken pillars** — data and payments.
 
-By making healthcare infrastructure credibly neutral, Prometheus Chains turns Ethereum and Base into the **trust layer for medicine itself** — enabling interoperability, transparency, and automation at a human scale.
+Clinical data is trapped in silos, making every connection fragile. Patients see fragments of their own history spread across incompatible EMRs. Providers spend hours faxing records and reconciling mismatched charts. Innovators face gatekeepers at every API door.
+
+Payments are just as fractured. Claims take weeks to settle, eligibility rules are hidden behind clearinghouses, and billions are wasted each year on manual coding and denials. Every inefficiency in healthcare traces back to one of these two foundations — **who holds the data, and who controls the money.**
+
+**Prometheus Chains** rebuilds those foundations onchain:  
+- **Data:** patient-owned medical records anchored on Ethereum for integrity and encrypted on Base for privacy.  
+- **Payments:** claims processed by transparent, programmable contracts that enforce rules and settle instantly in USDC.  
+
+Once the rails for data and payments exist as open, credibly neutral infrastructure, everything else in healthcare — from AI diagnostics to care coordination and research — becomes possible.  
+
+Prometheus Chains turns Ethereum and Base into the **trust layer for medicine itself**, enabling interoperability, transparency, and automation at a human scale.
 
 ---
 
