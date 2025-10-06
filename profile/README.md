@@ -26,8 +26,8 @@ Prometheus Chains is an open protocol for healthcare that brings **patient-owned
 ### Ethereum (Sepolia L1 — chainId `11155111`)
 | Contract | Address | Description |
 |-----------|----------|--------------|
-| **PatientRecordFactory** | [`0x5a6D6B720c5a501f9C2c745aE8B7288790C7dE45`](https://sepolia.etherscan.io/address/0x5a6D6B720c5a501f9C2c745aE8B7288790C7dE45) | Deploys one `PatientRecord` per wallet |
-| **PatientRecord** (example) | [`0x4D0585DdC4c6DBe75A2B1b6b96A7B29D0D5803Fa`](https://sepolia.etherscan.io/address/0x4D0585DdC4c6DBe75A2B1b6b96A7B29D0D5803Fa) | Anchors ordered hashes of canonical FHIR records |
+| **PatientRecordFactory** | [`0x5422907680cEa48620F9890AD7d664eB44F355a1`](https://sepolia.etherscan.io/address/0x5422907680cEa48620F9890AD7d664eB44F355a1) | Deploys one `PatientRecord` per wallet |
+| **PatientRecord** (example) | [`0x26A9c953999027501DD12CC5d1025471147E4cc9`](https://sepolia.etherscan.io/address/0x26A9c953999027501DD12CC5d1025471147E4cc9) | Anchors ordered hashes of canonical FHIR records |
 
 ### Base (Sepolia L2 — chainId `84532`)
 | Contract | Address | Description |
