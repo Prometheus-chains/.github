@@ -13,7 +13,7 @@ Prometheus Chains is an open protocol for healthcare that brings **patient-owned
 
 | Module | Description | Demo |
 |---------|--------------|------|
-| **Patient Web MVP** | Encrypts and anchors patient FHIR records across L1/L2 | [🔗 Launch Demo](https://prometheuschains.github.io/patient-web) |
+| **Patient Web MVP** | Encrypts and anchors patient FHIR records across L1/L2 | [🔗 Launch Demo](https://patient-web-seven.vercel.app/) |
 | **Claims Web (Admin + Provider Console)** | Providers submit claims, rules enforce coverage, payments auto-settle | [🔗 Launch Demo](https://prometheuschains.github.io/claims-web) |
 
 ![Patient Snapshot Flow](https://raw.githubusercontent.com/Prometheus-chains/.github/main/media/patient-demo.gif)
