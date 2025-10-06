@@ -33,7 +33,7 @@ Prometheus Chains is an open protocol for healthcare that brings **patient-owned
 | Contract | Address | Description |
 |-----------|----------|--------------|
 | **EventVaultHashOnly** | [`0x85f60DF7369578da188c23dD6a7D6D49C056254b`](https://sepolia.basescan.org/address/0x85f60DF7369578da188c23dD6a7D6D49C056254b) | Stores encrypted patient data by content hash |
-| **ClaimEngine** | [`0x6a327849Ea8F7f8C7B09bA71A4492c5a8F9581D4`](https://sepolia.basescan.org/address/0x6a327849Ea8F7f8C7B09bA71A4492c5a8F9581D4) | Validates provider claims and pays via Bank |
+| **ClaimEngine** | [`0xadda43C437Bb9A740a4D5972e0432e529a08DA7F`](https://sepolia.basescan.org/address/0xadda43C437Bb9A740a4D5972e0432e529a08DA7F) | Validates provider claims and pays via Bank |
 | **ProviderRegistry** | [`0x8D1E64BbE7D7Faf5cE9E2A34CE5a8A86aF54b0d5`](https://sepolia.basescan.org/address/0x8D1E64BbE7D7Faf5cE9E2A34CE5a8A86aF54b0d5) | Whitelist of providers and active-year windows |
 | **Enrollment** | [`0x0bD02E5438E85F8A25E6f60447f16F2F9113Bb41`](https://sepolia.basescan.org/address/0x0bD02E5438E85F8A25E6f60447f16F2F9113Bb41) | Patient coverage registry |
 | **Rules** | [`0xBd46cE7E5f75Ea679cA5E9266d9121b2E6dC67C2`](https://sepolia.basescan.org/address/0xBd46cE7E5f75Ea679cA5E9266d9121b2E6dC67C2) | Price & per-year rules for codes (telehealth, annual) |
