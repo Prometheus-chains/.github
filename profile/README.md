@@ -32,7 +32,7 @@ Prometheus Chains is an open protocol for healthcare that brings **patient-owned
 ### Base (Sepolia L2 — chainId `84532`)
 | Contract | Address | Description |
 |---|---|---|
-| **EEVault (Encrypted Event Vault)** *(EventVaultHashOnly)* | [`0x85f60DF7369578da188c23dD6a7D6D49C056254b`](https://sepolia.basescan.org/address/0x85f60DF7369578da188c23dD6a7D6D49C056254b) | Stores **AES-GCM ciphertext by a secret 16-byte tag**. Returns `envelopeId = keccak256(ciphertext)` for content-addressing. (Storage & private lookup; **no plaintext**.) |
+| **EEVault (Encrypted Event Vault)** | [`0x85f60DF7369578da188c23dD6a7D6D49C056254b`](https://sepolia.basescan.org/address/0x85f60DF7369578da188c23dD6a7D6D49C056254b) | Stores **AES-GCM ciphertext by a secret 16-byte tag**. Returns `envelopeId = keccak256(ciphertext)` for content-addressing. (Storage & private lookup; **no plaintext**.) |
 | **ClaimEngine** | [`0xadda43C437Bb9A740a4D5972e0432e529a08DA7F`](https://sepolia.basescan.org/address/0xadda43C437Bb9A740a4D5972e0432e529a08DA7F) | Validates provider claims and executes instant payouts via `Bank`. |
 | **ProviderRegistry** | [`0xa6B53A9A35c70a097666f5C9A31B1f9E9b66A728`](https://sepolia.basescan.org/address/0xa6B53A9A35c70a097666f5C9A31B1f9E9b66A728) | Whitelist of providers and active-year windows. |
 | **Enrollment** | [`0xf867c7bC6F1D21700Ac4aEEa47F2AD0d6d86e3DC`](https://sepolia.basescan.org/address/0xf867c7bC6F1D21700Ac4aEEa47F2AD0d6d86e3DC) | Patient coverage registry. |
